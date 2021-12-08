@@ -58,7 +58,7 @@
     "lyrics-finder": "^21.7.0",
     "moment": "^2.29.1",
     "mongoose": "^5.13.9",
-    "quickchart-js": "^1.4.2",
+    "quickchart-js": "^2.0.3",
     "reconlx": "^2.4.3",
     "soundcloud-downloader": "^1.0.0",
     "string-toolkit": "^1.5.0",
